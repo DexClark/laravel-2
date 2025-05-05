@@ -1,8 +1,6 @@
 # Thông tin về Tác giả
-Mã sinh viên: 009808
-Họ tên: Biện Công Nhựt Trường
-Mã sinh viên: 010005
-Họ tên: Nguyễn Mạnh Tường
+Họ tên: Nguyễn Hào Hiệp
+Họ tên: Hồ Minh Hữu Thắng
 
 # Hướng dẫn cách sử dụng dự án
 ## Step 1: Clone source dự án
